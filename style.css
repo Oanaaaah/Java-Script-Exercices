@@ -1,0 +1,36 @@
+.javascript_homework{margin: 20px auto;}
+/*Exercitiul 1 */
+.titlu_exercitiu{font-size: 20px;font-weight: 600;color: blueviolet;padding: 5px;text-align: center;}
+.calculator{
+    max-width: 800px;
+    background-color: rgb(229, 231, 78);
+    border-radius: 10px;
+    box-shadow: 0px 15px 20px -13px grey;
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#number{max-width: 57px;border-radius: 5px;}
+.simple_text{padding: 5px;}
+.table_title{font-size: 20px;font-weight: 600;padding: 5px;}
+#test_button{max-width: 57px;border-radius: 5px;}
+
+
+
+/*Exercitiul 2*/
+
+.doi { background-color: rgb(170, 56, 199);}
+
+.personalised_box{border-radius: 5px; max-width: 80px;}
+
+
+
+/* Exercitiul 3*/
+
+.trei{background-color: rgb(51, 179, 158); }
+.daybox{border-radius: 5px; max-width: 57px;}
